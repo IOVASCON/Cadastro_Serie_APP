@@ -1,0 +1,8 @@
+*.obj
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+.vscode/
+.idea/
